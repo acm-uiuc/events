@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# ACM@UIUC Events
+
+This site aggregates the information needed to run an ACM@UIUC event.
